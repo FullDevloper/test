@@ -1,0 +1,4 @@
+git branch olon huvilbar uusgej ajillahiin tuld git branch dev ch yumuu neree ogood huvilbaraa master aasaa salgaj avaad hugjuulne butsaaj negtgej bolno>
+git checkout branch solij bolno 
+branch ner solihdoo git branch -m dev dev1321 geh met solino
+branch ustgahdaa git branch -d geed branch ner
